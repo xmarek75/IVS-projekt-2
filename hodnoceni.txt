@@ -1,0 +1,3 @@
+xbilek25 100 (Grafické rozhraní, profiling, dokumentace)
+xmarek75 100 (Testy, logo, mockup, Makefile, dokumentace)
+xgottw07 100 (Matematická knihovna, instalátor, dokumentace)

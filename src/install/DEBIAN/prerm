@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -rf /usr/share/gazorpazorp/__pycache__
+
+exit 0

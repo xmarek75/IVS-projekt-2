@@ -1,0 +1,5 @@
+#!/bin/sh
+
+chmod 775 /usr/bin/gapacalc
+
+exit 0

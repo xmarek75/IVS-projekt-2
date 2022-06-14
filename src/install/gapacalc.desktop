@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Math;
+Exec=/usr/bin/gapacalc
+GenericName=Calculator
+Icon=/usr/share/pixmaps/gapacalc.png
+Name=GapaCalc
+Type=Application
+X-KDE-StartupNotify=false

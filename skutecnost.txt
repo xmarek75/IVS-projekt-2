@@ -1,0 +1,4 @@
+Makefile se upravoval až do poslední chvíle.
+U některých částí došlo k malému, překročení deadlinu.
+Jeden z testů se musel předělávat protože došlo k nedoruzemění ohledně tvaru exponentu.
+Dvakrát se musela posouvat úterní schůzka na pátek, protože jsme si nenašli čas.

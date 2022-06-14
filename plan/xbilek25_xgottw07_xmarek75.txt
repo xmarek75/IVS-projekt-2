@@ -1,0 +1,82 @@
+**********************************************************************
+*                                                                    *
+*                IVS - projekt 2 kalkulačka - plán                   *
+*                                                                    *
+**********************************************************************
+
+Tým - Gazorpazorp
+
+	- Vilém Gottwald (xgottw07) 
+	- Pavel Marek (xmarek75)
+	- Štěpán Bílek (xbilek25)
+	
+==========================================================================
+
+TERMÍNY
+
+ 16.3. repozitář, osvojení základní práce s Gitem
+ 17.3. plán
+ 18.3. README
+ 27.3. testy
+ 30.3. matematická knihovna, GUI, logo
+  9.4. propojení GUI s matematickou knihovnou
+ 11.4. Makefile, profilling
+ 20.4. instalátor
+ 23.4. nápověda, manuál, dokumentace
+ 25.4. mockup, dolaďování detailů 
+ 28.4. sepsání rozdílů mezi plánem a skutečností
+ 30.4. odevzdání
+ 21.5. instalace (celý tým)
+
+pozn. 	Každý týden v úterý proběhne videokonference, na které
+	se vyhodnotí dosavadní průběh.
+==========================================================================
+
+ROZDĚLENÍ ÚKOLŮ
+	
+ vytvoření a správa repozitáře....................xgottw07 
+ vytvoření README.................................xgottw07
+ implementace testů...............................xmarek75
+ implementace matematické knihovny a debugging....xgottw07, xmarek75
+ pravidelné testování.............................všichni
+ profilling.......................................xbilek25
+ vytvoření GUI....................................xbilek25
+ vytvoření loga aplikace..........................xmarek75
+ propojení GUI a matematikcé knihovny.............xbilek25, xgottw07
+ makefile.........................................xmarek75
+ nápověda.........................................xgottw07
+ manuál...........................................xbilek25
+ doxyfile.........................................všichni
+ instalátor, odinstalátor.........................xgottw07
+ prezentace.......................................všichni
+ mockup...........................................všichni
+ 
+pozn. 	Rozdělení úkolů je předběžné, jejich náročnost nedokážeme předem
+	přesně odhadnout, proto se může rozdělení úkolů v průběhu
+	projektu měnit. (bude konzultováno na úterních konferencích)
+	Každý úkol bude po jeho splnění kontrolován všemi členy týmu.
+ 
+==========================================================================
+ 
+ KOMUNIKAČNÍ PROSTŘEDKY
+ 
+ facebook messenger:
+   Vytvořena skupina pro rychlé sdílení informací. (reakce do 12 hodin) 
+  
+ msTeams: 
+   Vytvořen tým a v něm kanály pro jednotlivé části projektu. 
+   Každý týden v úterý proběhne videokonference, na které se vyhodnotí
+   dosavadní průběh a zkonzultují se způsoby řešení nově vyskytnutých
+   problémů. Tato platforma umožňuje i sdílení obrazovky, vhodné 
+   pro párové programování. (reakce do 48h)
+ 	
+ telefon:
+   Všichni členové týmu na sebe mají telefonní čísla. (reakce do 2 hodin)
+   
+==========================================================================
+
+ SYSTÉM PRO SPRÁVU VERZÍ A HOSTING
+ 
+ GitHub - https://github.com/xvigo/ivs-2
+ 
+ Uživateli „ivs.kontrola@gmail.com“ byl udělen přístup do repozitáře.

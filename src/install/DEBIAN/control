@@ -1,0 +1,8 @@
+Package: gapacalc
+Architecture: all
+Priority: optional
+Depends: debhelper-compat (= 12), python3-tk, python3-pil.imagetk
+Maintainer: Gazorpazorp
+Version: 1.0
+Description: Simple calculator by Gazorpazorp
+
